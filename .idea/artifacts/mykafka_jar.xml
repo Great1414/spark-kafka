@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mykafka:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mykafka_jar</output-path>
+    <root id="archive" name="mykafka.jar">
+      <element id="module-output" name="mykafka" />
+    </root>
+  </artifact>
+</component>
